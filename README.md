@@ -1,3 +1,6 @@
+---
+title: 情報系@自治会 特設サイト
+---
 # 情報系@自治会
 
 By 東京大学教養学部学生自治会
@@ -9,10 +12,10 @@ GitHub: https://github.com/UTokyoStudents
 ## 何をやっているの?
 
 ### Web 開発
-![Node.JS app](node-app-vscode.png)
+![Node.JS app](assets/images/node-app-vscode.png)
 
 ### スマートフォンアプリ
-![Android app](android-app.png)
+![Android app](assets/images/android-app.png)
 
 ### システム・ネットワーク・クラウド管理
 ```
