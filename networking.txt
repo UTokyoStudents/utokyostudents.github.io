@@ -1,0 +1,20 @@
+jp1-r1>
+jp1-r1> enable
+jp1-r1# 
+jp1-r1# show ip route
+Codes: K - kernel route, C - connected, S - static, R - RIP,
+       O - OSPF, I - IS-IS, B - BGP, P - PIM, A - Babel, N - NHRP,
+       > - selected route, * - FIB route
+
+K * 0.0.0.0/0 via 10.203.1.1, ens5 inactive, src 10.203.1.171
+O>* 10.197.1.0/24 [110/20] via 10.200.201.2, tap0, 4d18h21m
+O>* 10.198.101.0/24 [110/20] via 10.200.201.2, tap0, 4d18h21m
+O>* 10.200.101.0/24 [110/20] via 10.200.201.2, tap0, 4d18h21m
+O   10.200.201.0/24 [110/10] is directly connected, tap0, 01w1d11h
+C>* 10.200.201.0/24 is directly connected, tap0
+C>* 10.203.1.0/24 is directly connected, ens5
+K>* 10.203.1.1/32 is directly connected, ens5
+C>* 127.0.0.0/8 is directly connected, lo
+O>* 192.168.1.0/24 [110/20] via 10.200.201.2, tap0, 4d18h21m
+O>* 192.168.23.0/24 [110/20] via 10.200.201.2, tap0, 4d18h21m
+jp1-r1#
