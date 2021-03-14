@@ -1,44 +1,13 @@
----
-title: 情報系@自治会 特設サイト
----
-# 情報系@自治会
+# UTokyoStudents (UTokyo Students' Portal for Information Platforms)
 
-By 東京大学教養学部学生自治会
+https://utokyostudents.github.io/
 
-GitHub page.
+## 共通ルール
 
-GitHub: https://github.com/UTokyoStudents
+* 句読点は「，．」にする．
 
-## 何をやっているの?
+## License
 
-### Web 開発
-![Node.JS app](assets/images/node-app-vscode.png)
-
-### スマートフォンアプリ
-![Android app](assets/images/android-app.png)
-
-### システム・ネットワーク・クラウド管理
-```
-jp1-r1>
-jp1-r1> enable
-jp1-r1# 
-jp1-r1# show ip route
-Codes: K - kernel route, C - connected, S - static, R - RIP,
-       O - OSPF, I - IS-IS, B - BGP, P - PIM, A - Babel, N - NHRP,
-       > - selected route, * - FIB route
-
-K * 0.0.0.0/0 via 10.203.1.1, ens5 inactive, src 10.203.1.171
-O>* 10.197.1.0/24 [110/20] via 10.200.201.2, tap0, 4d18h21m
-O>* 10.198.101.0/24 [110/20] via 10.200.201.2, tap0, 4d18h21m
-O>* 10.200.101.0/24 [110/20] via 10.200.201.2, tap0, 4d18h21m
-O   10.200.201.0/24 [110/10] is directly connected, tap0, 01w1d11h
-C>* 10.200.201.0/24 is directly connected, tap0
-C>* 10.203.1.0/24 is directly connected, ens5
-K>* 10.203.1.1/32 is directly connected, ens5
-C>* 127.0.0.0/8 is directly connected, lo
-O>* 192.168.1.0/24 [110/20] via 10.200.201.2, tap0, 4d18h21m
-O>* 192.168.23.0/24 [110/20] via 10.200.201.2, tap0, 4d18h21m
-jp1-r1#
-```
+CC-BY 4.0.
 
 Copyright &copy; 2021 東京大学教養学部学生自治会.
