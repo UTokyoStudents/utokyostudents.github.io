@@ -3,13 +3,19 @@ title: 情報系@自治会 特設サイト
 ---
 # 情報系@自治会
 
-By 東京大学教養学部学生自治会
+## #春から東大
 
-GitHub page.
+(学部新入生向け)
 
-GitHub: https://github.com/UTokyoStudents
+**自治会はITに興味がある学生を募集しています!**
+
+* 駒場キャンパスにある自治会室が使える!
+* 活動保証費が支給!
+* 学生組織なので，気軽に主体的に活動できる!
 
 ## 何をやっているの?
+
+GitHub: https://github.com/UTokyoStudents
 
 ### Web 開発
 ![Node.JS app](assets/images/node-app-vscode.png)
