@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title:        東京大学教養学部学生自治会
+tagline:      情報化推進特設サイト
+locale:       "ja"
+
+# About/contact
+author:
+  name:       東京大学教養学部学生自治会
+  url:        https://todaijichikai.org/
