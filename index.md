@@ -13,6 +13,12 @@ title: 情報系@自治会 特設サイト
 * 活動保証費が支給!
 * 学生組織なので，気軽に主体的に活動できる!
 
+興味を持ったら早目にIT系事務員に応募しよう：
+
+komaba (at) todaijichikai.org
+
+運営にもっと主体的に関わりたい方は，定期的に募集している理事にも立候補できるぞ．
+
 ## 何をやっているの?
 
 GitHub: https://github.com/UTokyoStudents
