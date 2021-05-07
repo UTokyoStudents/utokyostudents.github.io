@@ -60,6 +60,9 @@ O>* 192.168.23.0/24 [110/20] via 10.200.201.2, tap0, 4d18h21m
 jp1-r1#
 ```
 
+---
+**UTokyoStudents (UTokyo Students' Portal for Information Platforms)**
+
 Copyright &copy; 2021 [東京大学教養学部学生自治会](https://todaijichikai.org/).
 
 Content is licensed under CC-BY 4.0 license.
